@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-dynamic-import-yom-require",
+  "version": "1.0.0",
+  "description": "Babel plugin to transpile import() to require, for AMD module loaders",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webyom/babel-plugin-dynamic-import-yom-require.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "dynamic",
+    "import",
+    "require",
+    "amd"
+  ],
+  "author": "webyom",
+  "license": "MIT"
+}
